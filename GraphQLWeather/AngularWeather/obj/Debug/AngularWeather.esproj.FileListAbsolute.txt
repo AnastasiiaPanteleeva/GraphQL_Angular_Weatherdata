@@ -1,0 +1,3 @@
+C:\Users\Anastasiia Panteleev\Desktop\Test2\Frontend\GraphQLWeather\AngularWeather\obj\Debug\AngularWeather.esproj.CoreCompileInputs.cache
+C:\Users\Anastasiia Panteleev\Desktop\Test2\Frontend_NgRx\GraphQLWeather\AngularWeather\obj\Debug\AngularWeather.esproj.CoreCompileInputs.cache
+C:\Users\Anastasiia Panteleev\Desktop\Test2\00_FINISH\GraphQLWeather\AngularWeather\obj\Debug\AngularWeather.esproj.CoreCompileInputs.cache

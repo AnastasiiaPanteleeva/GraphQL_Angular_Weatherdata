@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\weather\\weather.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\weather\\weather.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\state\\cities\\cities.actions.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\state\\cities\\cities.actions.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\cities\\cities.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\cities\\cities.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\state\\cities\\cities.reducer.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\state\\cities\\cities.reducer.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\state\\cities\\cities.effects.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\state\\cities\\cities.effects.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\state\\cities\\citites.selectors.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\state\\cities\\citites.selectors.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\cities\\cities.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\cities\\cities.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\cities\\cities.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\cities\\cities.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\state\\app.state.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\state\\app.state.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\models\\weather_aggregate\\currentweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\models\\weather_aggregate\\currentweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\models\\citytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\models\\citytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\weather\\weather.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\weather\\weather.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\models\\cityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\models\\cityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\repository\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\repository\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\cities\\cities.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\cities\\cities.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\schema\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\schema\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\graphql.operations.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\graphql.operations.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\models\\weather_aggregate\\forecastweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\models\\weather_aggregate\\forecastweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\weather\\weather.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\weather\\weather.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\weather\\weather.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\weather\\weather.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\angularweather\\src\\app\\cities\\cities.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C2150301-AA70-4387-AB40-4EBAE9AAF048}|AngularWeather\\AngularWeather.esproj|solutionrelative:angularweather\\src\\app\\cities\\cities.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|c:\\users\\anastasiia panteleev\\desktop\\test2\\00_finish\\graphqlweather\\graphqlweather.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9FA2A6E-C3B7-45D5-B584-D9C3D949F4EB}|GraphQLWeather.API\\GraphQLWeather.API.csproj|solutionrelative:graphqlweather.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cities.reducer.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\state\\cities\\cities.reducer.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\state\\cities\\cities.reducer.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\state\\cities\\cities.reducer.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\state\\cities\\cities.reducer.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T21:24:22.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cities.actions.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\state\\cities\\cities.actions.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\state\\cities\\cities.actions.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\state\\cities\\cities.actions.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\state\\cities\\cities.actions.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T21:19:26.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cities.effects.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\state\\cities\\cities.effects.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\state\\cities\\cities.effects.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\state\\cities\\cities.effects.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\state\\cities\\cities.effects.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T22:56:27.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\app.module.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-06T10:52:31.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "citites.selectors.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\state\\cities\\citites.selectors.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\state\\cities\\citites.selectors.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\state\\cities\\citites.selectors.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\state\\cities\\citites.selectors.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T21:54:25.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "weather.component.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\weather\\weather.component.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\weather\\weather.component.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\weather\\weather.component.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\weather\\weather.component.ts",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAwGMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-06T10:13:16.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cities.service.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\cities\\cities.service.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\cities\\cities.service.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\cities\\cities.service.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\cities\\cities.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T21:44:23.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cities.component.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\cities\\cities.component.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\cities\\cities.component.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\cities\\cities.component.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\cities\\cities.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-08T11:43:02.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cities.component.html",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\cities\\cities.component.html",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\cities\\cities.component.html",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\cities\\cities.component.html",
+              "RelativeToolTip": "AngularWeather\\src\\app\\cities\\cities.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-05T19:08:42.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.state.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\state\\app.state.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\state\\app.state.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\state\\app.state.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\state\\app.state.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T21:57:20.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CityType.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\models\\CityType.cs",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\models\\CityType.cs",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\models\\CityType.cs",
+              "RelativeToolTip": "GraphQLWeather.API\\models\\CityType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:28:51.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrentWeather.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\models\\weather_aggregate\\CurrentWeather.cs",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\models\\weather_aggregate\\CurrentWeather.cs",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\models\\weather_aggregate\\CurrentWeather.cs",
+              "RelativeToolTip": "GraphQLWeather.API\\models\\weather_aggregate\\CurrentWeather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:35:18.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\repository\\CityRepository.cs",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\repository\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\repository\\CityRepository.cs",
+              "RelativeToolTip": "GraphQLWeather.API\\repository\\CityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:04:27.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\Startup.cs",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\Startup.cs",
+              "RelativeToolTip": "GraphQLWeather.API\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:40:51.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\appsettings.json",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\appsettings.json",
+              "RelativeToolTip": "GraphQLWeather.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T12:37:52.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "weather.component.html",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\weather\\weather.component.html",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\weather\\weather.component.html",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\weather\\weather.component.html",
+              "RelativeToolTip": "AngularWeather\\src\\app\\weather\\weather.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-08T12:43:48.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CityExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\models\\CityExtensions.cs",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\models\\CityExtensions.cs",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\models\\CityExtensions.cs",
+              "RelativeToolTip": "GraphQLWeather.API\\models\\CityExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:08:30.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\Program.cs",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\Program.cs",
+              "RelativeToolTip": "GraphQLWeather.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:41:24.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\repository\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\repository\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\repository\\ICityRepository.cs",
+              "RelativeToolTip": "GraphQLWeather.API\\repository\\ICityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:54:05.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "cities.component.css",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\cities\\cities.component.css",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\cities\\cities.component.css",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\cities\\cities.component.css",
+              "RelativeToolTip": "AngularWeather\\src\\app\\cities\\cities.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-05T19:10:38.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "graphql.operations.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\graphql.operations.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\graphql.operations.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\graphql.operations.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\graphql.operations.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-08T12:41:58.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\schema\\Query.cs",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\schema\\Query.cs",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\schema\\Query.cs",
+              "RelativeToolTip": "GraphQLWeather.API\\schema\\Query.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:56:47.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ForecastWeather.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\models\\weather_aggregate\\ForecastWeather.cs",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\models\\weather_aggregate\\ForecastWeather.cs",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\models\\weather_aggregate\\ForecastWeather.cs",
+              "RelativeToolTip": "GraphQLWeather.API\\models\\weather_aggregate\\ForecastWeather.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAywC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:04:55.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "weather.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\weather\\weather.component.spec.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\weather\\weather.component.spec.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\weather\\weather.component.spec.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\weather\\weather.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-06T10:13:10.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "weather.component.css",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\weather\\weather.component.css",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\weather\\weather.component.css",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\weather\\weather.component.css",
+              "RelativeToolTip": "AngularWeather\\src\\app\\weather\\weather.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-06T08:40:19.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\app.component.css",
+              "RelativeToolTip": "AngularWeather\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-05T20:47:34.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "cities.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\cities\\cities.component.spec.ts",
+              "RelativeDocumentMoniker": "AngularWeather\\src\\app\\cities\\cities.component.spec.ts",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\AngularWeather\\src\\app\\cities\\cities.component.spec.ts",
+              "RelativeToolTip": "AngularWeather\\src\\app\\cities\\cities.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-05T19:24:12.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GraphQLWeather.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Anastasiia Panteleev\\Desktop\\Test2\\00_FINISH\\GraphQLWeather\\GraphQLWeather.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GraphQLWeather.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T19:42:14.495Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

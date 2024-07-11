@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ie7UpFbjhHwKzd75FaIILewWQYKYFWX/hVDOgvD9Ffs=",
+  "Source": "GraphQLWeather.API",
+  "BasePath": "_content/GraphQLWeather.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

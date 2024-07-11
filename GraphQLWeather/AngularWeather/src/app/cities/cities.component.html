@@ -1,0 +1,19 @@
+<div class="main">
+  <div *ngIf="error">
+    <p>Error: {{ error }}</p>
+  </div>
+
+  <div class="cities-container" *ngIf="cities$ | async">
+    <ul>
+      <li *ngFor="let cityType of cities$ | async">
+        <div class="city">
+          <div class="city-row">
+            <span class="city-name">{{ cityType.name }}</span>
+            <span class="city-coordinates">{{ cityType.latitude }}°|{{ cityType.longitude }}°</span>
+          </div>
+          <span class="city-description">{{ cityType.weather.temperature }} ℃</span>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>

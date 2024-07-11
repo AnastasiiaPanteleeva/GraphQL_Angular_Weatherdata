@@ -1,0 +1,33 @@
+<div class="search-container">
+  <form id="search-form" [formGroup]="searchForm" (ngSubmit)="searchWeather()">
+    <input type="text" id="search-input" class="search-input" placeholder="Search by city name or postal code..." formControlName="cityname">
+  </form>
+  <div class="error-message" *ngIf="error_message" [innerHTML]="error_message">
+    {{error_message}}
+  </div>
+</div>
+
+<div class="weather-today" *ngIf="weather_by_city">
+  <h1 class="headline">
+    Now in {{weather_by_city.name}}<br>
+    <span class="temperature-today">{{weather_by_city.weather.temperature}} ℃</span><br>
+    <span class="condition-today">{{weather_by_city.weather.description}}</span>
+  </h1>
+</div>
+<div class="forecast-container" *ngIf="weather_by_city">
+  <div class="forecast-column">
+    <div class="day">{{weather_by_city.forecastWeather.firstDay.weekDay}}</div>
+    <div class="temperature">{{weather_by_city.forecastWeather.firstDay.minTemperature}}℃ | {{weather_by_city.forecastWeather.firstDay.maxTemperature}}℃</div>
+    <div class="condition">{{weather_by_city.forecastWeather.firstDay.description}}</div>
+  </div>
+  <div class="forecast-column">
+    <div class="day">{{weather_by_city.forecastWeather.secondDay.weekDay}}</div>
+    <div class="temperature">{{weather_by_city.forecastWeather.secondDay.minTemperature}}℃ | {{weather_by_city.forecastWeather.secondDay.maxTemperature}}℃</div>
+    <div class="condition">{{weather_by_city.forecastWeather.secondDay.description}}</div>
+  </div>
+  <div class="forecast-column">
+    <div class="day">{{weather_by_city.forecastWeather.thirdDay.weekDay}}</div>
+    <div class="temperature">{{weather_by_city.forecastWeather.thirdDay.minTemperature}}℃ | {{weather_by_city.forecastWeather.thirdDay.maxTemperature}}℃</div>
+    <div class="condition">{{weather_by_city.forecastWeather.thirdDay.description}}</div>
+  </div>
+</div>
