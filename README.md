@@ -1,5 +1,6 @@
 # GraphQL and Angular for Weatherdata App
 
+
 ![Local Image](./gif_readme/Backend.gif)
 
 ### Backend:
@@ -12,6 +13,7 @@
 
 
 ![Local Image](./gif_readme/Frontend.gif)
+
 ### Frontend
 
 - The project uses the Angular framework;
@@ -20,5 +22,6 @@
 - For the cities component, the NgRx Library was used, which means state, actions, selectors, reducers, and effects were created.
 
 ![Local Image](./gif_readme/Docker.gif)
+
 ### Additional Requirements
 - The backend was containerized with Docker for easy deployment in Microsoft Azure Cloud
