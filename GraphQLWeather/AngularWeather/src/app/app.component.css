@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.cities-column {
+  width: 300px;
+  background-color: #f8f9fa;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow-y: auto;
+}
+
+.content-column {
+  flex-grow: 1;
+  padding: 10px; 
+  box-sizing: border-box;
+  overflow-y: auto;
+}
