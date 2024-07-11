@@ -1,6 +1,6 @@
 # GraphQL and Angular for Weatherdata App
 
-### Backend:
+## Backend:
 ![Local Image](./gif_readme/Backend.gif)
 
 
@@ -11,7 +11,7 @@
 - The project utilized the Repository Pattern (ICityRepository) to abstract data access and ensure that the implementation can be easily replaced;
 - The project incorporates logging to track and record application activities and errors such as exception handling to manage invalid operations. There is a validation for incorrect input: checking that the index is within the required range, as well as validating the entered city name (Regular Expression Definition, Check for Empty or Whitespace-Only String, Check Length Constraints, Check for Invalid Characters, Check for Excessive Repeating Characters).
 
-### Frontend
+## Frontend
 ![Local Image](./gif_readme/Frontend.gif)
 
 
@@ -21,7 +21,7 @@
 - For the cities component, the NgRx Library was used, which means state, actions, selectors, reducers, and effects were created.
 
 
-### Additional Requirements
+## Additional Requirements
 ![Local Image](./gif_readme/Docker.gif)
 
 - The backend was containerized with Docker for easy deployment in Microsoft Azure Cloud
